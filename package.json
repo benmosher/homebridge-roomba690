@@ -1,5 +1,5 @@
 {
-  "name": "homebridge-roomba690",
+  "name": "@benmosher/homebridge-roomba690",
   "version": "0.1.0",
   "description": "Roomba690 for Homebridge",
   "keywords": [
@@ -12,10 +12,10 @@
   "author": {
     "name": "gbro115"
   },
-   "repository": {
+  "repository": {
     "type": "git",
-    "url": "git://github.com/gbro115/homebridge-roomba690.git"
-  }, 
+    "url": "git://github.com/benmosher/homebridge-roomba690.git"
+  },
   "dependencies": {
     "dorita980": "3.0.6"
   }
